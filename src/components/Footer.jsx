@@ -9,7 +9,7 @@ const Footer = () => (
                 <div className="footer-about">
                     <div className="footer-logo">
                         <GraduationCap size={24} />
-                        <span>Rajiv Gandhi Convent HSS</span>
+                        <span>Rajeev Gandhi Convent HSS</span>
                     </div>
                     <p>
                         Affiliated to MPBSE, providing quality education from Nursery to Class 12th. Building future leaders with values and knowledge.
@@ -58,7 +58,7 @@ const Footer = () => (
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; 2026 Rajiv Gandhi Convent Higher Secondary School. All rights reserved.</p>
+                <p>&copy; 2026 Rajeev Gandhi Convent Higher Secondary School. All rights reserved.</p>
                 <p>Affiliated to <strong>MPBSE</strong> · Madhya Pradesh Board of Secondary Education</p>
             </div>
         </div>

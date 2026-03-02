@@ -78,7 +78,7 @@ const About = () => {
                                 variants={fadeInUp}
                                 custom={1}
                             >
-                                Rajiv Gandhi Convent Higher Secondary School, affiliated with the <strong>Madhya Pradesh Board of Secondary Education (MPBSE)</strong>, is a premier educational institution offering comprehensive education from <strong>Nursery to Class 12th</strong>.
+                                Rajeev Gandhi Convent Higher Secondary School, affiliated with the <strong>Madhya Pradesh Board of Secondary Education (MPBSE)</strong>, is a premier educational institution offering comprehensive education from <strong>Nursery to Class 12th</strong>.
                             </motion.p>
 
                             <motion.p

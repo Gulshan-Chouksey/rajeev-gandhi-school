@@ -49,7 +49,7 @@ const Navbar = () => {
                         <GraduationCap size={22} />
                     </div>
                     <div className="logo-text">
-                        <span className="logo-name">Rajiv Gandhi Convent</span>
+                        <span className="logo-name">Rajeev Gandhi Convent</span>
                         <span className="logo-sub">Higher Secondary School</span>
                     </div>
                 </a>

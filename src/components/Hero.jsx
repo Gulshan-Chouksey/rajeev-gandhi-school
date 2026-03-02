@@ -80,7 +80,7 @@ const Hero = () => {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: 0.3 }}
                 >
-                    Rajiv Gandhi Convent
+                    Rajeev Gandhi Convent
                     <br />
                     <span className="hero-gradient-text">Higher Secondary School</span>
                 </motion.h1>

@@ -4,7 +4,7 @@ import { MapPin, Phone, Mail, Clock } from 'lucide-react'
 import './Contact.css'
 
 const contacts = [
-    { icon: MapPin, title: 'Address', lines: ['Rajiv Gandhi Convent HSS', 'Main Road, Near Bus Stand', 'Madhya Pradesh, India'] },
+    { icon: MapPin, title: 'Address', lines: ['Rajeev Gandhi Convent HSS', 'Main Road, Near Bus Stand', 'Madhya Pradesh, India'] },
     { icon: Phone, title: 'Phone', lines: ['+91 98260 XXXXX', '+91 75090 XXXXX'] },
     { icon: Mail, title: 'Email', lines: ['info@rgchss.edu.in', 'admissions@rgchss.edu.in'] },
     { icon: Clock, title: 'Timings', lines: ['Mon – Sat: 8:00 AM – 2:30 PM', 'Office: 9:00 AM – 4:00 PM'] },
